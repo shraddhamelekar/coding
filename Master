@@ -1,0 +1,5 @@
+A=34
+B=36
+C=A+B
+Print("addition="C)
+70
